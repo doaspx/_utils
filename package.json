@@ -1,0 +1,31 @@
+{
+  "name": "-utils",
+  "version": "1.2.2",
+  "description": "系统工具包（mysql, redis,mailer,sms, html等）",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doaspx/_utils.git"
+  },
+  "keywords": [
+    "util",
+    "utils",
+    "mysql",
+    "redis",
+    "mailer",
+    "sms",
+    "http"
+  ],
+  "author": "老猫",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doaspx/_utils/issues"
+  },
+  "homepage": "https://github.com/doaspx/_utils#readme"
+}
